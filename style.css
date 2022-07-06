@@ -1,0 +1,144 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.sec-1 {
+    background-image: url(images/donation13.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+    background-size: 100%;
+    color: white;
+    padding: 40px;
+    height: 450px;
+}
+
+a {
+    text-decoration: none;
+    color: aliceblue;
+    background-image: linear-gradient(tomato, orange);
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.sec-2 {
+    text-align: center;
+    margin: 20px;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 10px;
+}
+
+li {
+    margin-right: 30px;
+    padding: 10px;
+    box-shadow: 0px 0px 10px;
+}
+
+#payment {
+    border: 1px solid tomato;
+    color: tomato;
+
+}
+
+.sec-3 {
+    text-align: center;
+    margin: 30px;
+
+}
+
+.s3-div2 {
+    display: flex;
+
+}
+
+.x {
+    box-shadow: 1px 1px 10px;
+    padding: 20px;
+    margin: 2%;
+    background-image: url(images/003-salad.png);
+    background-repeat: no-repeat;
+    background-position: top left;
+    background-color: rgb(33, 162, 185);
+}
+
+.y {
+    box-shadow: 1px 1px 10px;
+    padding: 20px;
+    margin: 2%;
+    color: white;
+    background-image: url(images/001-family.png);
+    background-position: top left;
+    background-repeat: no-repeat;
+    background-color: rgb(126, 70, 126);
+}
+
+.z {
+    box-shadow: 1px 1px 10px;
+    padding: 20px;
+    margin: 2%;
+    background-image: url(images/004-open-book.png);
+    background-position: top left;
+    background-repeat: no-repeat;
+    background-color: rgb(172, 159, 89);
+}
+
+.sec-4 {
+    display: flex;
+    margin: 30px;
+
+}
+
+img {
+    width: 100%;
+    margin-top: 50px;
+}
+
+.s4-div1 {
+    margin: 50px;
+    width: 90%;
+
+}
+
+.sec-5 {
+    text-align: center;
+    justify-content: center;
+}
+
+.s5-div2 {
+    background-color: khaki;
+    width: 50%;
+    padding: 60px;
+    height: 50%;
+    margin: 50px;
+    margin-left: 20%;
+
+}
+
+
+#a2 {
+    text-decoration: none;
+    color: aliceblue;
+    background-image: linear-gradient(tomato, orange);
+    padding: 5px;
+
+}
+
+footer {
+    text-align: center;
+    color: tomato;
+    background-color: black;
+    padding: 20px;
+    font-family: 'Lobster', cursive;
+
+}
