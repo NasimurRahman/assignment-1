@@ -102,6 +102,7 @@ li {
 img {
     width: 100%;
     margin-top: 50px;
+    border-left: 4px solid tomato;
 }
 
 .s4-div1 {
@@ -131,7 +132,12 @@ img {
     color: aliceblue;
     background-image: linear-gradient(tomato, orange);
     padding: 5px;
+    margin-left: -4px;
 
+}
+
+input {
+    height: 26px;
 }
 
 footer {
